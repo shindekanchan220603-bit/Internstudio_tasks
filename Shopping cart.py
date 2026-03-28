@@ -1,5 +1,5 @@
 # Shopping Cart Program
-
+# Created for internship Task
 
 class ShoppingCart:
     def __init__(self):
